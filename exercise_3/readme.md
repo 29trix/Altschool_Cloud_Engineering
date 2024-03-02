@@ -13,7 +13,8 @@ Generate SSH keys for the user in the admin group
     `sudo groupadd engineering`
 
   >b.  To add the admin group to sudoers edit the sudoer file with ``sudo visudo``
-    add this line to the file ``%admin ALL=(ALL) ALL`` ![sudoer_file](./images/sudoers.png)
+    add this line to the file `%admin ALL=(ALL) ALL`\
+   ![sudoer_file](./images/sudoers.png)
 
 2
   Create a user for each group\
