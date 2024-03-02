@@ -11,3 +11,14 @@ Submit the output of:
 * git config -l
 * git remote -v
 * git log
+
+## Solution
+
+1. Output of `git config -1`
+  ![git config](./images/git_config.png)
+
+2. Output of `git remote -v`
+  ![git remote](./images/git_remote.png)
+
+3. Output of `git log`
+  ![git log](./images/git_log.png)
